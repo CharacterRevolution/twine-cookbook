@@ -1,6 +1,6 @@
-# Welcome to the Twine Cookbook
+# 欢迎来到Twine烹饪书
 
-This *Cookbook* contains documentation, tips, and examples for using the non-linear story creation tool [Twine](https://twinery.org/).
+这本*烹饪书*包含使用非线性故事创建工具[Twine](https://twinery.org/)的文档、技巧和示例。
 
 ## Reading the Cookbook Online
 
